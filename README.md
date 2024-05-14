@@ -15,7 +15,7 @@ Welcome to WeSplit! This app makes splitting the bill after a meal with friends 
 
 2. **Select Tip Percentage**: Choose the percentage of tip you want to leave. You can choose from standard options like 15%, 18%, or 20%, or enter a custom percentage.
 
-3. **Specify Number of People**: Enter the number of people splitting the bill. 
+3. **Specify Number of People**: Enter the number of people splitting the bill.
 
 4. **View Results**: WeSplit will instantly calculate the amount each person needs to pay, including the total cost, tip amount, and individual share.
 
@@ -26,7 +26,9 @@ Welcome to WeSplit! This app makes splitting the bill after a meal with friends 
 
 ## Screenshots
 
-[Insert screenshots here]
+![WeSplit](./screenshots/mobile-wesplit.png)
+
+![WeSplit Calculate](./screenshots/mobile-wesplit-calculate.png)
 
 ## License
 
